@@ -1,0 +1,27 @@
+<departments>
+    
+	<information>
+	    <id>1</id>
+		<name>John Doe</name>
+		<address>H# 38, R#3, Banani, Dhaka</address>
+		<department>Sales </department>
+		<sales>$20000</sales>
+	</information>
+	
+	<information>
+	    <id>2</id>
+		<name>Mark Zuckerberg</name>
+		<address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+		<department>Account</department>
+		<sales>$12000</sales>
+	</information>
+	
+	<information>
+	    <id>3</id>
+		<name>Ala Voski</name>
+		<address>H# 38, R#3, Motijheel</address>
+		<department>Human Resources</department>
+		<sales>$30000</sales>
+	</information>
+	
+</departments>
